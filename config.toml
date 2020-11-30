@@ -1,0 +1,115 @@
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "http://www.ocri-genomics.org/ocgds/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "Oil Crops Genomics Database System"
+math = true
+copyright = ''
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of Oil Crops Genomics Database System"
+  author = "Xiaobo Cui"
+  email = "cuixiaobo0223@foxmail.com"
+  address = '<a href="https://cn.bing.com/maps/embed?h=400&w=500&cp=30.581653976721398~114.34479259558125&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8">Fifth floor of research building, OCRI, No.2 Xudong 2nd Road, Wuchang, Wuhan, China</a>'
+
+  slogan = "Oil Crops Genomics Database System"
+  slogan_text = "Portal of oil crops genomics and related databases, websites and resources."
+
+[[params.navbar_hierarchy]]
+    name = "OCRI"
+    link = "http://ocri.caas.cn/en/"
+    position = 1
+
+  [[params.navbar_hierarchy]]
+    name = "OCGDS"
+    link = "/"
+    position = 2
+
+  [[params.slogan_columns]]
+    title = ""
+    text =  ""
+    link = "/about"
+    link_text = ""
+    weight = 1
+
+    [[params.sponsors]]
+    name = "OCRI"
+    link = "http://ocri.caas.cn/en/"
+    image = "img/sponsors/ocri_new_logo.png"
+
+    [[params.sponsors]]
+    name = "CAAS"
+    link = "http://www.caas.cn/en/"
+    image = "img/sponsors/CAAS_logo.png"
+
+    [[params.sponsors]]
+    name = "NSFC"
+    link = "http://www.nsfc.gov.cn/english/site_1/index.html"
+    image = "img/sponsors/logo_nsfc.png"
+
+#    [[params.sponsors]]
+#    name = "GDRIlab"
+#    link = "http://www.ocri-genomics.org/gdrilab/"
+#    image = "img/sponsors/GDRI-logo-1.png"
+
+  [params.projects]
+    title = "Databases"
+    subtitle = ""
+    count = 5
+    str_all = "All Databases"
+
+  [params.posts]
+    count = 2
+    title = "News"
+    subtitle = ""
+    str_all = "More News"
+    str_read_more = "Read more"
+
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Databases"
+      url = "/#projects"
+      weight = 4
+      identifier = "databases"
+
+#  [[menu.main]]
+#      name = "Bolbase"
+#      url = "http://www.ocri-genomics.org/ocgds/project/bolbase/"
+#      weight = 4
+#      parent = "databases"
+
+  [[menu.main]]
+      name = "News"
+      url = "/#posts"
+      weight = 6
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 7
+
+  [[menu.main]]
+      name = "About Us"
+      url = "/#top"
+      weight = 8

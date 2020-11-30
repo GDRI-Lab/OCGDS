@@ -1,0 +1,9 @@
+#!/bin/bash
+
+USER=root
+HOST=119.97.203.210             
+DIR=/var/www/html/ocgds   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0

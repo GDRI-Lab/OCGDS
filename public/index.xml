@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oil Crops Genomics Database System</title>
+    <link>http://www.ocri-genomics.org/ocgds/</link>
+    <description>Recent content on Oil Crops Genomics Database System</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.ocri-genomics.org/ocgds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Oil Crops Genomics Database System was moved to here</title>
+      <link>http://www.ocri-genomics.org/ocgds/post/fisrt-news-ocgds-online-now/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/post/fisrt-news-ocgds-online-now/</guid>
+      <description>The Oil Crops Genomics Database System (OCGDS) has moved to here, welcome to visit!</description>
+    </item>
+    
+    <item>
+      <title>BnPIR</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/bnpir/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/bnpir/</guid>
+      <description>BnPIR is a comprehensive database based on gene information module, with Pan-genome Browser and Gbrowse Synteny as the core, and containing multi-omics data and common bioinformatics tools. It contains eight Brassica napus reference genomes, and a collection of 1,688 rapeseed re-sequencing data.
+For more information, you can refer to BnPIR.</description>
+    </item>
+    
+    <item>
+      <title>Sunflower Genome Database</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/sgd/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/sgd/</guid>
+      <description>For more information, you can refer to Sunflower Genome Database.</description>
+    </item>
+    
+    <item>
+      <title>INRA Sunflower Bioinformatics Resources</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/sbr/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/sbr/</guid>
+      <description>For more information, you can refer to INRA Sunflower Bioinformatics Resources.</description>
+    </item>
+    
+    <item>
+      <title>PGR</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/pgr/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/pgr/</guid>
+      <description>PGR contains agronomically useful information in Peanut species, including genome sequences, genetic maps, genes, gene families, and mapped traits and related information. The data will be maintained on two sites: PGR and http://www.fafu.edu.cn/. The &amp;ldquo;PGR&amp;rdquo; site makes use of several open-source projects, facilitating more efficient collaboration with other research groups using and developing these tools (e.g. PeanutBase, ICRISAT, CSFL, Shandong Academy of Agricultural Sciences, and Oil Crops Research Institute of Chinese Academy of Agricultural Sciences).</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://www.ocri-genomics.org/ocgds/publication/learning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/publication/learning/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    
+    <item>
+      <title>Shengyi Liu</title>
+      <link>http://www.ocri-genomics.org/ocgds/member/shengyiliu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/member/shengyiliu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bolbase</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/bolbase/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/bolbase/</guid>
+      <description>The Brassica oleracea Genome Database (Bolbase) was designed to provide users a useful and unique genome data source in the field of studying Brassica oleracea. In this database, it contained two important sections. First, it supplied genomic data and genomic components data, for genomic data, it mainly contains genome structure, scaffold sequences, and psuedochromosome sequences; for genomic components data, it mainly includes putative protein-coding genes (gene location, gene structure, protein feature, gene functional annotation, orthologs and syntenic regions), repeats elments (type, classification, location and sequences) and predicted non-coding RNAs (type, classification, location, description and sequences), and so on.</description>
+    </item>
+    
+    <item>
+      <title>PTGBase</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/ptgbase/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/ptgbase/</guid>
+      <description>PTGBase is a public database to collect plant genes generated by tandem duplication mechanism in the process of plant evolution. So far, PTGBase mainly focus on plants with available whole genome sequences especially for assembled pseudomolecules with ordered gene models. In this database, we have collected 39 plant species arrayed in 54,130 tandem repeat gene clusters containing 129,652 genes. PTGBase is freely available for download. The researchers or scientist can extract the full list of repeat genes, their coding sequences and protein sequences, as well as whole genome sets about sequenced plant species.</description>
+    </item>
+    
+    <item>
+      <title>Sinbase</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/sinbase/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/sinbase/</guid>
+      <description>Sinbase is a web-based database with comprehensive sesame genomic, genetic and comparative genomic information. Sinbase includes sequences of assembled sesame pseudomolecular chromosomes, protein-coding genes (27,148), transposable elements (372,167) and non-coding RNAs (1,748). In particular, Sinbase provides unique and valuable information on colinear regions with various plant genomes, including Arabidopsis thaliana, Glycine max, Vitis vinifera and Solanum lycopersicum. Sinbase also provides a useful search function and data mining tools, including a keyword search and local BLAST service.</description>
+    </item>
+    
+    <item>
+      <title>PeanutBase</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/peanutbase/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/peanutbase/</guid>
+      <description>For more information, you can refer to PeanutBase.</description>
+    </item>
+    
+    <item>
+      <title>ocsESTdb</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/ocsestdb/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/ocsestdb/</guid>
+      <description>The Oil Crops Seed ESTs database (ocsESTdb) was developed to provide users a comprehansive seed expression sequence tags database of oil crops for comparative analysis. In ocsEASTdb, it provided ESTs and unigenes detail information of four oil crop species, A.hypogaea, B.napus (high or low oil), G.max, S.indicum. For each unigene, ocsESTdb supplied nucleotide basic information, functional annotation and sequence information (full-length, ORF and peptide seq.), as well as KEGG pathway that unigene participated in and metabolism network that products of unigenes participated in.</description>
+    </item>
+    
+    <item>
+      <title>BTriDB</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/btridb/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/btridb/</guid>
+      <description>BTriDB (The Brassica Triplication Database) was constructed to provide users a useful and unique triplicated genes database in the field of studying Brassica lineage. In this database, it supplied genomic data, transcriptome data, comparative genome information based on triplicated blocks, this data includes psuedochromosome sequence, scaffold sequence, genome structure, and gene location, gene structure, protein feature, gene functional annotation, and so on. All of the data can be downloaded on line very conveniently.</description>
+    </item>
+    
+    <item>
+      <title>BRAD</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/brad/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/brad/</guid>
+      <description>The Brassica Database (BRAD) is now a new database which includes not only newly released genome sequences of Brassiceae species, but also published genomic data of most other Brassicaceae species. In total, we provided services for 3X genomes or genome versions from 35 species (refer to Species info). The genomic data included mainly genome assemblies, predicted gene models, gene annotations. These data can be searched in JBrowse or BLAST. They continue offering the featured service of the searching for syntenic genes, which are generated by Synorths, based on their syntenic relationships to the genes in Arabidopsis.</description>
+    </item>
+    
+    <item>
+      <title>PlantRGDB</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/plantrgdb/</link>
+      <pubDate>Sun, 03 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/plantrgdb/</guid>
+      <description>The PlantRGDB is the first plant disease resistance genes data resource that combines information on genomics, transcriptome and comparative genomics. In this database, extensive annotations including gene detail, protein functional domains, GO assignment, phylogenetic and evolutionary analysis of sequences for all R genes are provided in detail, and also offered R genes distribution on pseudochromosome for genome completed species. Particularly, the PlantRGDB supply genome-scale comparative studies of R genes in sequencing species and cross-link between these making it a unique and comprehensive resource.</description>
+    </item>
+    
+    <item>
+      <title>SoyBase</title>
+      <link>http://www.ocri-genomics.org/ocgds/project/soybase/</link>
+      <pubDate>Thu, 21 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/project/soybase/</guid>
+      <description>SoyBase, the USDA-ARS soybean genetic database, is a comprehensive repository for professionally curated genetics, genomics and related data resources for soybean. SoyBase contains the most current genetic, physical and genomic sequence maps integrated with qualitative and quantitative traits. The quantitative trait loci (QTL) represent more than 18 years of QTL mapping of more than 90 unique traits. SoyBase also contains the well-annotated &amp;lsquo;Williams 82&amp;rsquo; genomic sequence and associated data mining tools.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ocri-genomics.org/ocgds/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/about/</guid>
+      <description>About OCGDS The Oil Crops Genomics Database System (OCGDS) was designed to collecte oil crops genomics and related databases and resources, which is hosted at OCRI of CAAS. It is now maintained by GDRIlab. Until now, we have collected the following databases and related resources:
+ BnPIR BRAD PeanutBase SoyBase PGR: Peanut Genome Resources Sunflower Genome Database INRA Sunflower Bioinformatics Resources Sinbase Bolbase BTriDB ocsESTdb PlantRGDB PTGBase  If you have more information about oil crops related genomics databases, you can cantact us by the contact information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ocri-genomics.org/ocgds/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/approach/</guid>
+      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
+ Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ocri-genomics.org/ocgds/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/mission/</guid>
+      <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!
+if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ocri-genomics.org/ocgds/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/research/</guid>
+      <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
+ Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ocri-genomics.org/ocgds/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ocri-genomics.org/ocgds/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+  </channel>
+</rss>
